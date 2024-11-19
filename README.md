@@ -1,5 +1,5 @@
 # Optimized Frequency Collaborative Strategy Drives AI Image Detection
-## Here is the official implementation code of CSF 😊
+## Here is the implementation code of CSF 😊
 
 
 ### Experiment
