@@ -6,5 +6,3 @@
 
 #### Dataset
 Baseline dataset: https://github.com/Ekko-zn/AIGCDetectBenchmark
-
-We will release the code as soon as the paper is published, so stay tuned.
